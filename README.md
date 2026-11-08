@@ -40,4 +40,4 @@ Os dados são mockados (`lib/mock_data.dart`). Não há dependências externas a
 
 ## Declaração de uso de IA generativa
 Ferramenta: Claude (Anthropic). Uso: geração da estrutura inicial do app, que foi revisada, testada e
-adaptada pelo grupo. [Ajuste este texto para refletir exatamente o que foi feito.]
+adaptada pelo grupo. 
